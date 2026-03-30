@@ -14,10 +14,7 @@
 
 ## 🎥 Demo Video
 
-
-
-<video src="https://github.com/user-attachments/assets/8b25cb66-aa9f-4c56-95bc-d011bd77e196" controls width="800"></video>
-
+![demo](https://github.com/user-attachments/assets/4f4272eb-12e1-4131-93d3-3a1bf3a3942f)
 
 
 > Upload any CCTV video → Get AI-powered people counting, queue analytics,
