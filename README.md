@@ -12,6 +12,14 @@
 
 ### Real-Time People Counting & Queue Management System
 
+## 🎥 Demo Video
+
+
+
+<video src="https://github.com/user-attachments/assets/8b25cb66-aa9f-4c56-95bc-d011bd77e196" controls width="800"></video>
+
+
+
 > Upload any CCTV video → Get AI-powered people counting, queue analytics,
 > dwell time estimation, density heatmap, and smart email alerts — all in your browser.
 
